@@ -3,10 +3,17 @@ This project addresses the need for an effective water quality prediction system
 Based on these predictions, the system recommends suitable water filters to ensure optimal water quality. By integrating real-time data collection with advanced ML techniques, the project aims to improve water management practices and effectively address challenges related to water contamination.
 
 Flow :
+
 1.Datasets Pre-Processing
+
 2.Data Visualiation : Explorartory Data Analysis
+
 3.Model Implementation : Machine Learning Model
+
 4.Random Forest Algorithm
+
 5.Naive Bayes Algorithm
+
 6.Comparison of all the Algorithm
+
 7.Filter Recommendation System
